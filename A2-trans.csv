@@ -1,745 +1,745 @@
- 
-"äijä", "old man, man",
-"tahtoa", "desire",
-"voitto", "victory, profit, win, triumph",
-"tyhjä", "empty",
-"rinne", "slope, hillside",
-"lahja", "gift, present",
-"helpottaa", "alleviate, facilitate, relieve",
-"poliitikko", "politician",
-"pelastaa", "rescue, save",
-"studio", "studio",
-"sisko", "sister",
-"seinä", "wall",
-"pyöriä", "roll",
-"purkaa", "dismantle, vent, unravel, defuse, decrypt",
-"piirtää", "draw",
-"neljäs", "fourth",
-"jälleen", "again",
-"jakso", "period, episode",
-"esitys", "representation, presentation, proposition, show, performance",
-"ase", "weapon",
-"vapaus", "freedom, liberty",
-"sauna", "sauna",
-"kari", "shoal, rock",
-"arvostaa", "appreciate, value",
-"oire", "symptom, sign",
-"monta", "many, numerous",
-"maahanmuuttaja", "immigrant",
-"kuuma", "hot",
-"kieltää", "forbid, prohibit, deny",
-"hoitaja", "nurse",
-"aluksi", "in the beginning, to begin with, ab initio, originally, initially",
-"hullu", "mad, insane, crazy, lunatic",
-"väri", "colour, dye, color, hue",
-"tähti", "star",
-"toivo", "hope",
-"todellinen", "real, true",
-"meininki", "spirit of happening, spirit",
-"asukas", "inhabitant, resident",
-"tarttua", "grasp, seize, grab, grip",
-"suora", "straight",
-"tytär", "daughter",
-"opetella", "learn",
-"lava", "platform, stage, bandstand",
-"laiva", "ship",
-"kausi", "period, era, season",
-"jäsen", "member",
-"satu", "fairy tale, tale, story",
-"kiertää", "twist, orbit",
-"keskeinen", "central, pivotal",
-"huolehtia", "worry, care, provide",
-"jengi", "posse, any group of people, gang",
-"toisin", "differently",
-"seitsemän", "seven",
-"parantaa", "cure, improve, heal, enhance",
-"naapuri", "neighbour, neighbor",
-"jännä", "exciting, funny",
-"mielellään", "with pleasure, willingly, preferably",
-"kumpi", "which",
-"kantaa", "carry, bear",
-"virhe", "error, mistake, fault",
-"viha", "hatred, hate, anger",
-"vero", "tax",
-"selvästi", "evidently, clearly, explicitly, clear, apparently",
-"mieletön", "absurd",
-"lintu", "bird",
-"johto", "lead, leadership",
-"huippu", "peak, top",
-"harjoitella", "exercise, practice, rehearse, train",
-"erikoinen", "special, peculiar, exceptional",
-"alkoholi", "alcohol",
-"yllätys", "surprise",
-"uni", "dream, sleep",
-"tyhmä", "stupid, fool",
-"seisoa", "stand",
-"loistava", "brilliant",
-"leikkiä", "play",
-"kulta", "gold",
-"epäillä", "doubt, suspect",
-"asunto", "apartment, residence, dwelling, accommodation",
-"totuus", "truth",
-"seura", "company, association, society, club",
-"monesti", "often, repeatedly",
-"järkevä", "wise, reasonable, sensible",
-"ilmiö", "phenomenon",
-"edellinen", "previous, former",
-"uudelleen", "again, anew",
-"sininen", "blue",
-"lähtien", "forward, since, from",
-"yksityinen", "private",
-"taistella", "fight",
-"puolustaa", "defend, protect, champion",
-"merkitä", "signify, mark",
-"lähtö", "departure, start",
-"kiusata", "harass, hassle, annoy",
-"kaikkein", "very",
-"palaute", "feedback",
-"loistaa", "shine, glow",
-"kilo", "kilo, kilogram",
-"jatkuvasti", "continually, constantly, continuously",
-"hius", "hair",
-"haastattelu", "interview",
-"monenlainen", "various, variable, varying, versatile",
-"pyhä", "holy, sacred",
-"kaikenlainen", "a lot, various, every kind of",
-"järki", "reason",
-"ympärillä", "around",
-"välinen", "inter-, between",
-"julkisuus", "public, publicity",
-"harrastus", "hobby",
-"usko", "belief, faith",
-"pelkästään", "merely, strictly",
-"luku", "number, chapter",
-"kukka", "flower",
-"kohde", "target, object, destination",
-"kiusaaminen", "bullying",
-"tunnelma", "atmosphere, ambiance",
-"mummo", "grandmother, grandma",
-"edustaa", "represent",
-"ärsyttää", "irritate, annoy, rile",
-"urheilu", "sport",
-"tosin", "all right, though, in fact, although, however",
-"taiteilija", "artist",
-"selkä", "back",
-"pekka", "boor, yokel, philistine, churl, bumpkin",
-"muisto", "memory",
-"lattia", "floor",
-"firma", "firm, company",
-"erityinen", "special",
-"surullinen", "sad",
-"lupa", "permission",
-"kamera", "camera",
-"radio", "radio",
-"levy", "plate, disk",
-"kunnes", "until, till",
-"vieressä", "alongside, beside",
-"perässä", "aft, astern, behind, after",
-"muistuttaa", "remind, resemble",
-"läheinen", "close",
-"juhla", "party, festival, celebration, holiday",
-"yhteisö", "community",
-"voimakas", "strong",
-"paino", "weight",
-"opiskelija", "student",
-"lähinnä", "predominantly, mainly, mostly",
-"itkeä", "cry, weep",
-"ehdottaa", "propose, suggest",
-"täysi", "full, brimming, absolute",
-"turva", "safety, security, refuge",
-"pimeä", "dark",
-"kilpailu", "competition",
-"yksittäinen", "single, singular, solitary",
-"väki", "people",
-"rauhallinen", "calm, quiet, placid",
-"nousu", "ascent, rise, ascension, takeoff",
-"koettaa", "try on, try",
-"katsoja", "spectator",
-"häpeä", "shame, disgrace",
-"haitata", "impede, harm",
-"hahmo", "figure, shape, character",
-"vasen", "left",
-"lisääntyä", "reproduce, breed",
-"kommentoida", "no comment, comment",
-"hävitä", "lose, disappear, vanish",
-"polvi", "knee",
-"käsitys", "conception",
-"kallis", "expensive",
-"julkaista", "publish, release",
-"siisti", "clean",
-"pohjoinen", "north",
-"nenä", "nose",
-"tuskin", "hardly, barely",
-"riittävä", "sufficient",
-"osua", "hit",
-"kuuro", "deaf",
-"valitettavasti", "unfortunately, alas",
-"tauti", "disease",
-"tanssia", "dance",
-"sektori", "sector",
-"lähetä", "draw close, come closer, draw near, approach, come near",
-"laite", "device, appliance",
-"kakkonen", "second",
-"harmittaa", "annoy, vex, provoke, put out, displease",
-"asettaa", "set",
-"maahanmuutto", "immigration",
-"lumi", "snow",
-"kortti", "card",
-"koittaa", "dawn, come",
-"kirje", "letter",
-"kiinnittää", "attach, fasten, mortgage",
-"hätä", "trouble",
-"enempää", "most, no more, not anymore, more, no longer",
-"avoin", "open",
-"taloudellinen", "economic, financial",
-"rankka", "hard, heavy",
-"mahtua", "fit",
-"käsittää", "comprehend, understand",
-"entäs", "and, huh, but, ah, until",
-"taide", "art",
-"sairas", "sick, ill",
-"puhdas", "clean, pure",
-"pelottava", "daunting, frightening, fearsome",
-"matkustaa", "travel",
-"lämmin", "warm",
-"loma", "vacation, holiday",
-"leipä", "bread",
-"konkreettinen", "concrete",
-"tappaa", "kill",
-"sijaan", "instead of",
-"edustaja", "representative",
-"vahvistaa", "confirm, corroborate, strengthen, reinforce, amplify",
-"keittiö", "kitchen",
-"esitellä", "introduce, demonstrate, present",
-"taata", "guarantee",
-"rouva", "lady",
-"mitata", "measure",
-"kahdeksan", "eight",
-"esiintyä", "appear",
-"ammattilainen", "professional, pro",
-"äärimmäinen", "extreme",
-"vanhus", "elderly person, old man, elderly man, old person, old",
-"ohje", "instruction",
-"kunnon", "proper, decent",
-"välissä", "between",
-"tyyli", "style",
-"reuna", "edge",
-"heippa", "see you later, bye",
-"harva", "few, nowhere dense, sparse",
-"etu", "advantage, benefit",
-"ulkopuolella", "outside",
-"tori", "market, square",
-"sisäinen", "interior, internal, inward, inner",
-"rahoitus", "financing, funding",
-"päätyä", "end up, settle upon, wind up",
-"polttaa", "burn, smoke",
-"työllisyys", "employment",
-"takaa", "behind",
-"pysähtyä", "stop",
-"nappi", "button",
-"mitenkään", "possibly",
-"mahdoton", "impossible",
-"suostua", "accept, comply, agree",
-"ryhtyä", "embark",
-"rikos", "crime",
-"reilu", "fair",
-"päässä", "away",
-"panostaa", "invest, allocate resources",
-"paine", "pressure",
-"osuus", "share, portion",
-"omistaa", "own, possess",
-"luovuttaa", "give up, abandon, give in",
-"aktiivinen", "active",
-"yhdeksän", "nine",
-"uhri", "victim, sacrifice",
-"turvallisuus", "safety, security",
-"tarkkaan", "closely, strictly, precisely",
-"säkki", "sack, bag",
-"sulkea", "close, shut",
-"pappi", "priest, clergyman",
-"olennainen", "essential, pertinent",
-"ohjaaja", "director",
-"kriisi", "crisis",
-"ikäinen", "old",
-"ampua", "shoot",
-"veto", "veto, bet, draft, traction",
-"vastustaa", "resist, object",
-"valmistaa", "make, prepare, produce, manufacture",
-"tuolta", "from there",
-"syöpä", "cancer",
-"saakka", "until, till",
-"reagoida", "react",
-"mitä", "what",
-"lukio", "grammar school, high school, secondary school, college, upper secondary school",
-"kuulemma", "reputedly",
-"kaukana", "far",
-"hallita", "rule, reign, govern, master, dominate",
-"veri", "blood",
-"ravintola", "restaurant",
-"määritellä", "define",
-"maito", "milk",
-"kuu", "moon",
-"kenttä", "field",
-"kasa", "heap, pile",
-"huolimatta", "notwithstanding, in spite of, irregardless, no matter, despite",
-"hammas", "tooth",
-"da", "deck, sounding board, turntable, concave, saddle",
-"tietenkään", "of course, naturally, certainly, obviously, au naturel",
-"saavuttaa", "achieve, attain, reach, accomplish",
-"lopuksi", "finally, ultimately",
-"kysellä", "quiz",
-"uudistus", "reform",
-"rinta", "breast",
-"musa", "music",
-"maisema", "landscape",
-"iho", "skin",
-"huolissaan", "anxiously, worriedly, afraid",
-"aine", "matter, substance, material",
-"yllättävä", "surprising",
-"piiri", "circle",
-"oppi", "doctrine",
-"kunnia", "glory, honour, honor, credit, kudos",
-"keittää", "cook, boil",
-"harvinainen", "rare, exceptional",
-"vaara", "danger, hazard",
-"sopiva", "suitable, appropriate, fit, convenient",
-"sisälle", "in",
-"puisto", "park",
-"kauheasti", "awfully, atrociously, dreadfully",
-"katse", "look, glance",
-"esim.", "e.g.",
-"valmistua", "graduate",
-"teknologia", "technology",
-"professori", "professor",
-"pala", "piece, bit",
-"haastava", "challenging",
-"fiksu", "smart, bright, savvy",
-"uhka", "threat",
-"siivota", "clean",
-"seuraus", "effect, consequence",
-"rakenne", "structure",
-"pakottaa", "force, compel",
-"osaaminen", "expertise",
-"kisa", "competition",
-"kenkä", "shoe",
-"karhu", "bear",
-"huikea", "huge",
-"ehdotus", "proposition, proposal",
-"vihdoin", "finally, at last",
-"verkko", "net, network",
-"työskennellä", "work",
-"teos", "opus, piece",
-"pikkuhiljaa", "bit by bit, little by little, in stages, by inches, gradually",
-"neuvo", "advice",
-"mieluummin", "rather",
-"meinata", "going to, intend, mean",
-"maistua", "taste",
-"astua", "enter, step",
-"ylpeä", "proud",
-"viitata", "indicate",
-"varsin", "very, quite, exceedingly, fairly",
-"vaikeus", "difficulty",
-"tuotanto", "production",
-"palauttaa", "restore",
-"myynti", "sale",
-"lasku", "bill, invoice, decline",
-"laita", "rim, edge, brim, side",
-"kiinnostava", "interesting",
-"hurja", "wild, violent",
-"haastaa", "sue, challenge",
-"etenkin", "in particular, notably, especially, mainly",
-"voisi", "might, would, could",
-"upea", "magnificent",
-"tilaisuus", "opportunity, occasion",
-"syöttää", "feed, input, enter",
-"sielu", "soul",
-"läsnä", "present",
-"lämpö", "heat, warmth",
-"vähä", "few",
-"todellisuus", "reality",
-"sänky", "bed",
-"rakentaminen", "building, construction",
-"palaa", "burn",
-"yksinäisyys", "loneliness, solitude",
-"vene", "boat",
-"terveys", "health",
-"sarja", "series",
-"pankki", "bank",
-"menestyä", "succeed",
-"yksilö", "individual",
-"testata", "test",
-"suorittaa", "perform, accomplish, carry out",
-"projekti", "project",
-"poistua", "go off, leave",
-"parissa", "in the midst of, among, amongst",
-"köyhä", "poor",
-"kuoro", "choir, chorus",
-"keho", "body",
-"havaita", "perceive, detect",
-"hassu", "funny, silly",
-"askel", "step",
-"yksinkertainen", "simple",
-"saari", "island",
-"posti", "mail, post, post office",
-"huume", "drug, narcotic",
-"hirveän", "atrociously",
-"alta", "under",
-"kohdistua", "affect",
-"järvi", "lake",
-"hengittää", "breathe",
-"äkkiä", "suddenly, all of a sudden",
-"vaiva", "ailment, trouble",
-"toive", "hope, wish",
-"sää", "weather",
-"säilyä", "be preserved, endure",
-"naama", "face",
-"ministeri", "minister",
-"leikki", "game",
-"kuvio", "pattern, design",
-"kunnioittaa", "respect, honour",
-"kama", "stuff, gear",
-"jonkinlainen", "any at all, some kind of",
-"hiukan", "a little, some, slightly, a bit",
-"vakavasti", "seriously, badly, severely, grievously",
-"sujua", "work out, go well",
-"pointti", "point",
-"maku", "taste, flavour",
-"lähestyä", "approach",
-"kansalainen", "citizen",
-"kalle", "deck boy, seaman apprentice, ship’s boy, shipboy",
-"juhlia", "celebrate, hold a party, banquet, go out",
-"ihmeellinen", "miraculous",
-"valmistautua", "prepare, get ready",
-"tarjolla", "available",
-"syyttää", "accuse, blame, charge, prosecute, impeach",
-"rohkea", "brave, bold, valiant",
-"rikki", "sulfur, sulphur",
-"putki", "tube, pipe",
-"pakolainen", "refugee",
-"noudattaa", "obey, follow, comply, observe",
-"muka", "supposedly, supposed",
-"mennessä", "till, until",
-"kallio", "rock",
-"este", "obstruction, obstacle, barrier",
-"ensinnä", "at first, first, initially",
-"valvoa", "oversee, supervise, enforce, monitor",
-"sataa", "rain",
-"perään", "after",
-"linna", "castle",
-"kansallinen", "national",
-"jätkä", "jack",
-"heikko", "weak, feeble",
-"harvoin", "seldom, rarely",
-"vahinko", "damage",
-"syöttö", "service, serve, pitch",
-"pudota", "fall, drop",
-"perkele", "devil",
-"muodostua", "form",
-"luona", "with, near",
-"kuljettaa", "transport",
-"järjestys", "order",
-"investointi", "investment",
-"hetkinen", "moment, minute",
-"aito", "real, authentic",
-"ulkona", "outside",
-"tuomio", "sentence",
-"taho", "facet",
-"reaktio", "reaction",
-"koskettaa", "touch",
-"kasvot", "face",
-"hotelli", "hotel",
-"edistää", "advance, promote, foster",
-"arvata", "guess",
-"voittaja", "winner, victor",
-"virallinen", "formal, official",
-"viiva", "line",
-"vaihtua", "shift, be changed",
-"uskomaton", "incredible, unbelievable",
-"lehmä", "cow",
-"kyyti", "lift, ride",
-"kuningas", "king",
-"iskä", "daddy, dad",
-"erinomainen", "excellent, exceptional",
-"aste", "degree",
-"ympärille", "around, round",
-"viihtyä", "thrive, flourish, like, feel at home, be amused",
-"tylsä", "dull, boring",
-"tippua", "drip",
-"pupu", "bunny, bunny rabbit, pet rabbit",
-"pahvi", "cardboard",
-"määrätä", "assign, determine, order",
-"muodostaa", "form",
-"korostaa", "highlight, emphasize",
-"vamma", "injury, wound",
-"sisältö", "content",
-"peili", "mirror",
-"paljastaa", "disclose, expose, reveal, unmask, unveil",
-"maalata", "paint",
-"luonnollinen", "natural",
-"luokse", "to",
-"liikenne", "traffic",
-"levitä", "spread, spread out, sprawl",
-"keskelle", "to the center, to the middle",
-"identiteetti", "identity",
-"erottaa", "dismiss, sack, fire, discern, separate",
-"ansio", "merit",
-"ajattelu", "thought, thinking",
-"ylöspäin", "up",
-"vihainen", "angry, mad, pissed, pissed off",
-"sitoutua", "commit",
-"paketti", "packet, package",
-"melko", "pretty, quite, rather",
-"kouluttaa", "educate, train",
-"jne.", "etc.",
-"hiljainen", "quiet",
-"asenne", "attitude",
-"armeija", "army",
-"ykkönen", "one",
-"uhata", "threaten",
-"tuonne", "over there, yonder, to that place, there to",
-"suositella", "recommend",
-"osittain", "partly",
-"lista", "list",
-"iskeä", "hit, strike",
-"ansaita", "deserve, earn",
-"valmentaja", "trainer, coach",
-"tuomita", "judge, sentence, condemn",
-"tunnustaa", "confess, acknowledge, recognize, admit",
-"tasainen", "even",
-"resurssi", "resource",
-"oppilas", "pupil",
-"matala", "low, shallow",
-"lähelle", "near, close",
-"lyhyesti", "in brief, briefly, for short, short",
-"kirjailija", "author, writer",
-"itsestään", "spontaneously",
-"erä", "batch, lot, period",
-"arvokas", "valuable, dignified",
-"verotus", "taxation",
-"työttömyys", "unemployment",
-"toimija", "actor, agent, Actor",
-"suku", "family, genus",
-"sijaita", "be situated, look, stand, be positioned, be located",
-"sairastua", "become ill, get ill",
-"osasto", "department",
-"nato", "sister-in-law",
-"huumori", "humour, humor",
-"ehdokas", "candidate",
-"perinne", "tradition",
-"laina", "loan",
-"jonnekin", "somewhere, some place",
-"home", "mold, mould, mildew",
-"fyysinen", "physical",
-"asento", "posture, position, attitude, stance",
-"teatteri", "theatre, theater",
-"suru", "sorrow, grief",
-"normaalisti", "normally",
-"niska", "neck",
-"neuvottelu", "negotiation",
-"kyky", "ability, skill, talent, gift",
-"kipeä", "painful, ill, sick",
-"keskenään", "among, with each other",
-"häiritä", "disturb, interfere",
-"huuto", "cry, yell, shout",
-"henkinen", "mental, spiritual, emotional, psychological",
-"varmistaa", "verify, ascertain, assure, certify, confirm",
-"valtavasti", "immensely, enormously, hugely, tremendously",
-"puolustus", "defence, defense",
-"perin", "exceedingly",
-"orpo", "orphan",
-"nuoruus", "youth",
-"mahdollistaa", "enable",
-"kokous", "meeting",
-"herkku", "delicacy, treat",
-"helvetti", "hell",
-"aidosti", "genuinely, authentically",
-"yksinäinen", "lone, lonely",
-"tukka", "hair",
-"taistelu", "battle, fight",
-"prinsessa", "princess",
-"paita", "shirt",
-"oli", "it was delicious, were, was, had got",
-"kollega", "colleague",
-"aivot", "brain",
-"ääneen", "aloud, out loud",
-"varata", "reserve, book",
-"rakastua", "fall in love, fall in love with, fall for, love",
-"palkata", "employ, hire, engage",
-"paistaa", "roast, fry, shine",
-"olettaa", "assume",
-"oleminen", "being",
-"nälkä", "hunger",
-"negatiivinen", "negative",
-"muassa", "in accompaniment, along, with",
-"materiaali", "material",
-"kaikkialla", "everywhere, anywhere, all over the place",
-"edellyttää", "require",
-"amerikka", "football, phenom, American football",
-"urheilija", "athlete, sportsman, jock",
-"tavallaan", "in a way, kind of, as it were, kinda",
-"suoja", "shelter, refuge, protection",
-"seikkailu", "adventure",
-"rata", "orbit, railroad",
-"pätkä", "bit",
-"päivittäin", "daily",
-"käyttäytyä", "behave",
-"kana", "chicken, hen",
-"järjestö", "organisation, organization, association",
-"huomenta", "good morning, good afternoon, good day, hello",
-"apina", "monkey, ape",
-"tuollainen", "such",
-"tekniikka", "technique, engineering",
-"tanssi", "dance",
-"synnyttää", "bear, give birth, generate",
-"suosittu", "popular",
-"pyörittää", "spin",
-"palvella", "serve",
-"mökki", "hut, cottage",
-"kustannus", "expense",
-"korvata", "replace, compensate, reimburse, substitute",
-"elo", "life, living",
-"arvio", "estimate",
-"villi", "wild",
-"tee", "tea",
-"suojella", "safeguard",
-"summa", "sum, total",
-"rangaistus", "punishment, penalty",
-"pystyssä", "upright, erect, vertical",
-"puoliso", "spouse",
-"peittää", "cover, conceal, envelop, hide",
-"kiitollinen", "grateful, thankful, obliged",
-"ilmaista", "express, convey, communicate",
-"hermo", "nerve",
-"hanska", "glove",
-"aikainen", "early",
-"voimakkaasti", "strongly, powerfully, strenuously",
-"valittaa", "complain, grumble",
-"törmätä", "conflict, collide",
-"tuore", "fresh, recent",
-"tapaaminen", "meeting, appointment, date",
-"so", "but, however, giddyup, only, and",
-"pysäyttää", "stop",
-"piano", "piano",
-"pahasti", "badly, bad",
-"ooppera", "opera",
-"nurkka", "corner",
-"käsittämätön", "unbelievable, incomprehensible, inconceivable",
-"kupla", "bubble",
-"kulma", "angle, corner",
-"kohdella", "treat",
-"ilmasto", "climate",
-"hallinta", "possession",
-"vatsa", "stomach",
-"tyypillinen", "typical, quintessential",
-"tunnettu", "known",
-"tahto", "will",
-"rikas", "rich",
-"reitti", "route, path",
-"rajoittaa", "restrict, limit, confine",
-"ominaisuus", "attribute, quality",
-"maistaa", "taste",
-"lysti", "joy, enjoyment, happiness",
-"hakata", "chop, hack",
-"vähintään", "at least, at the least, at the very least, not less than",
-"vaikkapa", "even though, for example, for instance",
-"ote", "excerpt, grip",
-"näyttö", "monitor, display, evidence, screen",
-"lause", "sentence, theorem",
-"kitara", "guitar",
-"innostua", "warm",
-"älytön", "witless, unreasonable, unintelligent, vacuous, brainless",
-"tuhota", "destroy",
-"treenata", "train, exercise",
-"toivottaa", "wish",
-"säästää", "save",
-"syli", "lap",
-"rivi", "line, row",
-"piilo", "lair, hiding place",
-"järjetön", "absurd, senseless",
-"etelä", "south",
-"vessa", "toilet, water closet, lavatory, loo",
-"työllistää", "employ",
-"torjua", "avert, reject, ward off, parry",
-"teollisuus", "industry",
-"sentti", "cent",
-"rikkoa", "break",
-"neuvotella", "confer, consult",
-"muusikko", "musician",
-"laatu", "quality",
-"kuuluisa", "famous, renowned, illustrious, celebrated",
-"kohtaus", "scene",
-"huomattavasti", "considerably, significantly, substantially",
-"baari", "bar",
-"alus", "vessel, ship",
-"ylittää", "cross, transcend",
-"viisas", "wise, prudent",
-"vapauttaa", "release, free, loose, set free, liberate",
-"tarkistaa", "check, revise",
-"säilyttää", "preserve, keep",
-"systeemi", "system",
-"pitkälti", "out and away, chiefly, practically, mainly",
-"näytellä", "act, play",
-"mitta", "measure",
-"luultavasti", "probably, arguably, likely",
-"kilpailla", "compete, rival",
-"juoma", "drink, beverage",
-"velvollisuus", "duty, obligation",
-"vankila", "prison, jail",
-"tietynlainen", "specific",
-"takki", "coat",
-"stressi", "stress",
-"salaisuus", "secret",
-"riita", "quarrel, argument, dispute, disagreement, fight",
-"poikki", "across",
-"kokonainen", "whole, entire",
-"kakku", "cake",
-"jännitys", "tension, suspense",
-"joki", "river",
-"ilmetä", "prove, arise, unfold, appear, transpire",
-"finaali", "final, finale",
-"edellä", "ahead, first",
-"demokratia", "democracy",
-"asuminen", "housing",
-"asettua", "settle",
-"yllä", "above, over",
-"viereen", "beside",
-"versio", "version",
-"uudistaa", "reform, renew",
-"todistaa", "prove, testify, certify",
-"tilata", "subscribe, order",
-"tauko", "pause, break",
-"pullo", "bottle",
-"nykyisin", "nowadays, today",
-"makkara", "sausage",
-"maha", "stomach",
-"kamala", "ghastly, horrible, awful, dreadful",
-"kaltainen", "similar",
-"haaveilla", "dream",
-"artisti", "artist, artiste, creative person",
-"välttää", "avoid, dodge",
-"tekninen", "technical",
-"sen", "its",
-"päättäjä", "administrator, decision maker",
-"pilvi", "cloud",
-"pestä", "wash",
-"muualle", "elsewhere",
-"markkinat", "market",
-"laulaja", "singer",
-"kuulija", "listener",
-"hymyillä", "smile",
-"hitto", "heck, damn, the fuck, damn it",
-"ehto", "condition",
-"öljy", "oil",
-"sitä", "it, the",
-"puute", "lack",
-"poikkeuksellinen", "exceptional",
-"opiskelu", "study",
-"marja", "berry",
-"lippu", "ticket",
-"lento", "flight",
-"kohtaaminen", "encounter",
-"itku", "cry, crying, weeping",
-"haave", "dream",
-"faija", "dad",
-"selkeästi", "clearly",
+word,translation(s)
+"äijä", "old man; man"
+"tahtoa", "desire"
+"voitto", "victory; profit; win; triumph"
+"tyhjä", "empty"
+"rinne", "slope; hillside"
+"lahja", "gift; present"
+"helpottaa", "alleviate; facilitate; relieve"
+"poliitikko", "politician"
+"pelastaa", "rescue; save"
+"studio", "studio"
+"sisko", "sister"
+"seinä", "wall"
+"pyöriä", "roll"
+"purkaa", "dismantle; vent; unravel; defuse; decrypt"
+"piirtää", "draw"
+"neljäs", "fourth"
+"jälleen", "again"
+"jakso", "period; episode"
+"esitys", "representation; presentation; proposition; show; performance"
+"ase", "weapon"
+"vapaus", "freedom; liberty"
+"sauna", "sauna"
+"kari", "shoal; rock"
+"arvostaa", "appreciate; value"
+"oire", "symptom; sign"
+"monta", "many; numerous"
+"maahanmuuttaja", "immigrant"
+"kuuma", "hot"
+"kieltää", "forbid; prohibit; deny"
+"hoitaja", "nurse"
+"aluksi", "in the beginning; to begin with; ab initio; originally; initially"
+"hullu", "mad; insane; crazy; lunatic"
+"väri", "colour; dye; color; hue"
+"tähti", "star"
+"toivo", "hope"
+"todellinen", "real; true"
+"meininki", "spirit of happening; spirit"
+"asukas", "inhabitant; resident"
+"tarttua", "grasp; seize; grab; grip"
+"suora", "straight"
+"tytär", "daughter"
+"opetella", "learn"
+"lava", "platform; stage; bandstand"
+"laiva", "ship"
+"kausi", "period; era; season"
+"jäsen", "member"
+"satu", "fairy tale; tale; story"
+"kiertää", "twist; orbit"
+"keskeinen", "central; pivotal"
+"huolehtia", "worry; care; provide"
+"jengi", "posse; any group of people; gang"
+"toisin", "differently"
+"seitsemän", "seven"
+"parantaa", "cure; improve; heal; enhance"
+"naapuri", "neighbour; neighbor"
+"jännä", "exciting; funny"
+"mielellään", "with pleasure; willingly; preferably"
+"kumpi", "which"
+"kantaa", "carry; bear"
+"virhe", "error; mistake; fault"
+"viha", "hatred; hate; anger"
+"vero", "tax"
+"selvästi", "evidently; clearly; explicitly; clear; apparently"
+"mieletön", "absurd"
+"lintu", "bird"
+"johto", "lead; leadership"
+"huippu", "peak; top"
+"harjoitella", "exercise; practice; rehearse; train"
+"erikoinen", "special; peculiar; exceptional"
+"alkoholi", "alcohol"
+"yllätys", "surprise"
+"uni", "dream; sleep"
+"tyhmä", "stupid; fool"
+"seisoa", "stand"
+"loistava", "brilliant"
+"leikkiä", "play"
+"kulta", "gold"
+"epäillä", "doubt; suspect"
+"asunto", "apartment; residence; dwelling; accommodation"
+"totuus", "truth"
+"seura", "company; association; society; club"
+"monesti", "often; repeatedly"
+"järkevä", "wise; reasonable; sensible"
+"ilmiö", "phenomenon"
+"edellinen", "previous; former"
+"uudelleen", "again; anew"
+"sininen", "blue"
+"lähtien", "forward; since; from"
+"yksityinen", "private"
+"taistella", "fight"
+"puolustaa", "defend; protect; champion"
+"merkitä", "signify; mark"
+"lähtö", "departure; start"
+"kiusata", "harass; hassle; annoy"
+"kaikkein", "very"
+"palaute", "feedback"
+"loistaa", "shine; glow"
+"kilo", "kilo; kilogram"
+"jatkuvasti", "continually; constantly; continuously"
+"hius", "hair"
+"haastattelu", "interview"
+"monenlainen", "various; variable; varying; versatile"
+"pyhä", "holy; sacred"
+"kaikenlainen", "a lot; various; every kind of"
+"järki", "reason"
+"ympärillä", "around"
+"välinen", "inter-; between"
+"julkisuus", "public; publicity"
+"harrastus", "hobby"
+"usko", "belief; faith"
+"pelkästään", "merely; strictly"
+"luku", "number; chapter"
+"kukka", "flower"
+"kohde", "target; object; destination"
+"kiusaaminen", "bullying"
+"tunnelma", "atmosphere; ambiance"
+"mummo", "grandmother; grandma"
+"edustaa", "represent"
+"ärsyttää", "irritate; annoy; rile"
+"urheilu", "sport"
+"tosin", "all right; though; in fact; although; however"
+"taiteilija", "artist"
+"selkä", "back"
+"pekka", "boor; yokel; philistine; churl; bumpkin"
+"muisto", "memory"
+"lattia", "floor"
+"firma", "firm; company"
+"erityinen", "special"
+"surullinen", "sad"
+"lupa", "permission"
+"kamera", "camera"
+"radio", "radio"
+"levy", "plate; disk"
+"kunnes", "until; till"
+"vieressä", "alongside; beside"
+"perässä", "aft; astern; behind; after"
+"muistuttaa", "remind; resemble"
+"läheinen", "close"
+"juhla", "party; festival; celebration; holiday"
+"yhteisö", "community"
+"voimakas", "strong"
+"paino", "weight"
+"opiskelija", "student"
+"lähinnä", "predominantly; mainly; mostly"
+"itkeä", "cry; weep"
+"ehdottaa", "propose; suggest"
+"täysi", "full; brimming; absolute"
+"turva", "safety; security; refuge"
+"pimeä", "dark"
+"kilpailu", "competition"
+"yksittäinen", "single; singular; solitary"
+"väki", "people"
+"rauhallinen", "calm; quiet; placid"
+"nousu", "ascent; rise; ascension; takeoff"
+"koettaa", "try on; try"
+"katsoja", "spectator"
+"häpeä", "shame; disgrace"
+"haitata", "impede; harm"
+"hahmo", "figure; shape; character"
+"vasen", "left"
+"lisääntyä", "reproduce; breed"
+"kommentoida", "no comment; comment"
+"hävitä", "lose; disappear; vanish"
+"polvi", "knee"
+"käsitys", "conception"
+"kallis", "expensive"
+"julkaista", "publish; release"
+"siisti", "clean"
+"pohjoinen", "north"
+"nenä", "nose"
+"tuskin", "hardly; barely"
+"riittävä", "sufficient"
+"osua", "hit"
+"kuuro", "deaf"
+"valitettavasti", "unfortunately; alas"
+"tauti", "disease"
+"tanssia", "dance"
+"sektori", "sector"
+"lähetä", "draw close; come closer; draw near; approach; come near"
+"laite", "device; appliance"
+"kakkonen", "second"
+"harmittaa", "annoy; vex; provoke; put out; displease"
+"asettaa", "set"
+"maahanmuutto", "immigration"
+"lumi", "snow"
+"kortti", "card"
+"koittaa", "dawn; come"
+"kirje", "letter"
+"kiinnittää", "attach; fasten; mortgage"
+"hätä", "trouble"
+"enempää", "most; no more; not anymore; more; no longer"
+"avoin", "open"
+"taloudellinen", "economic; financial"
+"rankka", "hard; heavy"
+"mahtua", "fit"
+"käsittää", "comprehend; understand"
+"entäs", "and; huh; but; ah; until"
+"taide", "art"
+"sairas", "sick; ill"
+"puhdas", "clean; pure"
+"pelottava", "daunting; frightening; fearsome"
+"matkustaa", "travel"
+"lämmin", "warm"
+"loma", "vacation; holiday"
+"leipä", "bread"
+"konkreettinen", "concrete"
+"tappaa", "kill"
+"sijaan", "instead of"
+"edustaja", "representative"
+"vahvistaa", "confirm; corroborate; strengthen; reinforce; amplify"
+"keittiö", "kitchen"
+"esitellä", "introduce; demonstrate; present"
+"taata", "guarantee"
+"rouva", "lady"
+"mitata", "measure"
+"kahdeksan", "eight"
+"esiintyä", "appear"
+"ammattilainen", "professional; pro"
+"äärimmäinen", "extreme"
+"vanhus", "elderly person; old man; elderly man; old person; old"
+"ohje", "instruction"
+"kunnon", "proper; decent"
+"välissä", "between"
+"tyyli", "style"
+"reuna", "edge"
+"heippa", "see you later; bye"
+"harva", "few; nowhere dense; sparse"
+"etu", "advantage; benefit"
+"ulkopuolella", "outside"
+"tori", "market; square"
+"sisäinen", "interior; internal; inward; inner"
+"rahoitus", "financing; funding"
+"päätyä", "end up; settle upon; wind up"
+"polttaa", "burn; smoke"
+"työllisyys", "employment"
+"takaa", "behind"
+"pysähtyä", "stop"
+"nappi", "button"
+"mitenkään", "possibly"
+"mahdoton", "impossible"
+"suostua", "accept; comply; agree"
+"ryhtyä", "embark"
+"rikos", "crime"
+"reilu", "fair"
+"päässä", "away"
+"panostaa", "invest; allocate resources"
+"paine", "pressure"
+"osuus", "share; portion"
+"omistaa", "own; possess"
+"luovuttaa", "give up; abandon; give in"
+"aktiivinen", "active"
+"yhdeksän", "nine"
+"uhri", "victim; sacrifice"
+"turvallisuus", "safety; security"
+"tarkkaan", "closely; strictly; precisely"
+"säkki", "sack; bag"
+"sulkea", "close; shut"
+"pappi", "priest; clergyman"
+"olennainen", "essential; pertinent"
+"ohjaaja", "director"
+"kriisi", "crisis"
+"ikäinen", "old"
+"ampua", "shoot"
+"veto", "veto; bet; draft; traction"
+"vastustaa", "resist; object"
+"valmistaa", "make; prepare; produce; manufacture"
+"tuolta", "from there"
+"syöpä", "cancer"
+"saakka", "until; till"
+"reagoida", "react"
+"mitä", "what"
+"lukio", "grammar school; high school; secondary school; college; upper secondary school"
+"kuulemma", "reputedly"
+"kaukana", "far"
+"hallita", "rule; reign; govern; master; dominate"
+"veri", "blood"
+"ravintola", "restaurant"
+"määritellä", "define"
+"maito", "milk"
+"kuu", "moon"
+"kenttä", "field"
+"kasa", "heap; pile"
+"huolimatta", "notwithstanding; in spite of; irregardless; no matter; despite"
+"hammas", "tooth"
+"da", "deck; sounding board; turntable; concave; saddle"
+"tietenkään", "of course; naturally; certainly; obviously; au naturel"
+"saavuttaa", "achieve; attain; reach; accomplish"
+"lopuksi", "finally; ultimately"
+"kysellä", "quiz"
+"uudistus", "reform"
+"rinta", "breast"
+"musa", "music"
+"maisema", "landscape"
+"iho", "skin"
+"huolissaan", "anxiously; worriedly; afraid"
+"aine", "matter; substance; material"
+"yllättävä", "surprising"
+"piiri", "circle"
+"oppi", "doctrine"
+"kunnia", "glory; honour; honor; credit; kudos"
+"keittää", "cook; boil"
+"harvinainen", "rare; exceptional"
+"vaara", "danger; hazard"
+"sopiva", "suitable; appropriate; fit; convenient"
+"sisälle", "in"
+"puisto", "park"
+"kauheasti", "awfully; atrociously; dreadfully"
+"katse", "look; glance"
+"esim.", "e.g."
+"valmistua", "graduate"
+"teknologia", "technology"
+"professori", "professor"
+"pala", "piece; bit"
+"haastava", "challenging"
+"fiksu", "smart; bright; savvy"
+"uhka", "threat"
+"siivota", "clean"
+"seuraus", "effect; consequence"
+"rakenne", "structure"
+"pakottaa", "force; compel"
+"osaaminen", "expertise"
+"kisa", "competition"
+"kenkä", "shoe"
+"karhu", "bear"
+"huikea", "huge"
+"ehdotus", "proposition; proposal"
+"vihdoin", "finally; at last"
+"verkko", "net; network"
+"työskennellä", "work"
+"teos", "opus; piece"
+"pikkuhiljaa", "bit by bit; little by little; in stages; by inches; gradually"
+"neuvo", "advice"
+"mieluummin", "rather"
+"meinata", "going to; intend; mean"
+"maistua", "taste"
+"astua", "enter; step"
+"ylpeä", "proud"
+"viitata", "indicate"
+"varsin", "very; quite; exceedingly; fairly"
+"vaikeus", "difficulty"
+"tuotanto", "production"
+"palauttaa", "restore"
+"myynti", "sale"
+"lasku", "bill; invoice; decline"
+"laita", "rim; edge; brim; side"
+"kiinnostava", "interesting"
+"hurja", "wild; violent"
+"haastaa", "sue; challenge"
+"etenkin", "in particular; notably; especially; mainly"
+"voisi", "might; would; could"
+"upea", "magnificent"
+"tilaisuus", "opportunity; occasion"
+"syöttää", "feed; input; enter"
+"sielu", "soul"
+"läsnä", "present"
+"lämpö", "heat; warmth"
+"vähä", "few"
+"todellisuus", "reality"
+"sänky", "bed"
+"rakentaminen", "building; construction"
+"palaa", "burn"
+"yksinäisyys", "loneliness; solitude"
+"vene", "boat"
+"terveys", "health"
+"sarja", "series"
+"pankki", "bank"
+"menestyä", "succeed"
+"yksilö", "individual"
+"testata", "test"
+"suorittaa", "perform; accomplish; carry out"
+"projekti", "project"
+"poistua", "go off; leave"
+"parissa", "in the midst of; among; amongst"
+"köyhä", "poor"
+"kuoro", "choir; chorus"
+"keho", "body"
+"havaita", "perceive; detect"
+"hassu", "funny; silly"
+"askel", "step"
+"yksinkertainen", "simple"
+"saari", "island"
+"posti", "mail; post; post office"
+"huume", "drug; narcotic"
+"hirveän", "atrociously"
+"alta", "under"
+"kohdistua", "affect"
+"järvi", "lake"
+"hengittää", "breathe"
+"äkkiä", "suddenly; all of a sudden"
+"vaiva", "ailment; trouble"
+"toive", "hope; wish"
+"sää", "weather"
+"säilyä", "be preserved; endure"
+"naama", "face"
+"ministeri", "minister"
+"leikki", "game"
+"kuvio", "pattern; design"
+"kunnioittaa", "respect; honour"
+"kama", "stuff; gear"
+"jonkinlainen", "any at all; some kind of"
+"hiukan", "a little; some; slightly; a bit"
+"vakavasti", "seriously; badly; severely; grievously"
+"sujua", "work out; go well"
+"pointti", "point"
+"maku", "taste; flavour"
+"lähestyä", "approach"
+"kansalainen", "citizen"
+"kalle", "deck boy; seaman apprentice; ship’s boy; shipboy"
+"juhlia", "celebrate; hold a party; banquet; go out"
+"ihmeellinen", "miraculous"
+"valmistautua", "prepare; get ready"
+"tarjolla", "available"
+"syyttää", "accuse; blame; charge; prosecute; impeach"
+"rohkea", "brave; bold; valiant"
+"rikki", "sulfur; sulphur"
+"putki", "tube; pipe"
+"pakolainen", "refugee"
+"noudattaa", "obey; follow; comply; observe"
+"muka", "supposedly; supposed"
+"mennessä", "till; until"
+"kallio", "rock"
+"este", "obstruction; obstacle; barrier"
+"ensinnä", "at first; first; initially"
+"valvoa", "oversee; supervise; enforce; monitor"
+"sataa", "rain"
+"perään", "after"
+"linna", "castle"
+"kansallinen", "national"
+"jätkä", "jack"
+"heikko", "weak; feeble"
+"harvoin", "seldom; rarely"
+"vahinko", "damage"
+"syöttö", "service; serve; pitch"
+"pudota", "fall; drop"
+"perkele", "devil"
+"muodostua", "form"
+"luona", "with; near"
+"kuljettaa", "transport"
+"järjestys", "order"
+"investointi", "investment"
+"hetkinen", "moment; minute"
+"aito", "real; authentic"
+"ulkona", "outside"
+"tuomio", "sentence"
+"taho", "facet"
+"reaktio", "reaction"
+"koskettaa", "touch"
+"kasvot", "face"
+"hotelli", "hotel"
+"edistää", "advance; promote; foster"
+"arvata", "guess"
+"voittaja", "winner; victor"
+"virallinen", "formal; official"
+"viiva", "line"
+"vaihtua", "shift; be changed"
+"uskomaton", "incredible; unbelievable"
+"lehmä", "cow"
+"kyyti", "lift; ride"
+"kuningas", "king"
+"iskä", "daddy; dad"
+"erinomainen", "excellent; exceptional"
+"aste", "degree"
+"ympärille", "around; round"
+"viihtyä", "thrive; flourish; like; feel at home; be amused"
+"tylsä", "dull; boring"
+"tippua", "drip"
+"pupu", "bunny; bunny rabbit; pet rabbit"
+"pahvi", "cardboard"
+"määrätä", "assign; determine; order"
+"muodostaa", "form"
+"korostaa", "highlight; emphasize"
+"vamma", "injury; wound"
+"sisältö", "content"
+"peili", "mirror"
+"paljastaa", "disclose; expose; reveal; unmask; unveil"
+"maalata", "paint"
+"luonnollinen", "natural"
+"luokse", "to"
+"liikenne", "traffic"
+"levitä", "spread; spread out; sprawl"
+"keskelle", "to the center; to the middle"
+"identiteetti", "identity"
+"erottaa", "dismiss; sack; fire; discern; separate"
+"ansio", "merit"
+"ajattelu", "thought; thinking"
+"ylöspäin", "up"
+"vihainen", "angry; mad; pissed; pissed off"
+"sitoutua", "commit"
+"paketti", "packet; package"
+"melko", "pretty; quite; rather"
+"kouluttaa", "educate; train"
+"jne.", "etc."
+"hiljainen", "quiet"
+"asenne", "attitude"
+"armeija", "army"
+"ykkönen", "one"
+"uhata", "threaten"
+"tuonne", "over there; yonder; to that place; there to"
+"suositella", "recommend"
+"osittain", "partly"
+"lista", "list"
+"iskeä", "hit; strike"
+"ansaita", "deserve; earn"
+"valmentaja", "trainer; coach"
+"tuomita", "judge; sentence; condemn"
+"tunnustaa", "confess; acknowledge; recognize; admit"
+"tasainen", "even"
+"resurssi", "resource"
+"oppilas", "pupil"
+"matala", "low; shallow"
+"lähelle", "near; close"
+"lyhyesti", "in brief; briefly; for short; short"
+"kirjailija", "author; writer"
+"itsestään", "spontaneously"
+"erä", "batch; lot; period"
+"arvokas", "valuable; dignified"
+"verotus", "taxation"
+"työttömyys", "unemployment"
+"toimija", "actor; agent; Actor"
+"suku", "family; genus"
+"sijaita", "be situated; look; stand; be positioned; be located"
+"sairastua", "become ill; get ill"
+"osasto", "department"
+"nato", "sister-in-law"
+"huumori", "humour; humor"
+"ehdokas", "candidate"
+"perinne", "tradition"
+"laina", "loan"
+"jonnekin", "somewhere; some place"
+"home", "mold; mould; mildew"
+"fyysinen", "physical"
+"asento", "posture; position; attitude; stance"
+"teatteri", "theatre; theater"
+"suru", "sorrow; grief"
+"normaalisti", "normally"
+"niska", "neck"
+"neuvottelu", "negotiation"
+"kyky", "ability; skill; talent; gift"
+"kipeä", "painful; ill; sick"
+"keskenään", "among; with each other"
+"häiritä", "disturb; interfere"
+"huuto", "cry; yell; shout"
+"henkinen", "mental; spiritual; emotional; psychological"
+"varmistaa", "verify; ascertain; assure; certify; confirm"
+"valtavasti", "immensely; enormously; hugely; tremendously"
+"puolustus", "defence; defense"
+"perin", "exceedingly"
+"orpo", "orphan"
+"nuoruus", "youth"
+"mahdollistaa", "enable"
+"kokous", "meeting"
+"herkku", "delicacy; treat"
+"helvetti", "hell"
+"aidosti", "genuinely; authentically"
+"yksinäinen", "lone; lonely"
+"tukka", "hair"
+"taistelu", "battle; fight"
+"prinsessa", "princess"
+"paita", "shirt"
+"oli", "it was delicious; were; was; had got"
+"kollega", "colleague"
+"aivot", "brain"
+"ääneen", "aloud; out loud"
+"varata", "reserve; book"
+"rakastua", "fall in love; fall in love with; fall for; love"
+"palkata", "employ; hire; engage"
+"paistaa", "roast; fry; shine"
+"olettaa", "assume"
+"oleminen", "being"
+"nälkä", "hunger"
+"negatiivinen", "negative"
+"muassa", "in accompaniment; along; with"
+"materiaali", "material"
+"kaikkialla", "everywhere; anywhere; all over the place"
+"edellyttää", "require"
+"amerikka", "football; phenom; American football"
+"urheilija", "athlete; sportsman; jock"
+"tavallaan", "in a way; kind of; as it were; kinda"
+"suoja", "shelter; refuge; protection"
+"seikkailu", "adventure"
+"rata", "orbit; railroad"
+"pätkä", "bit"
+"päivittäin", "daily"
+"käyttäytyä", "behave"
+"kana", "chicken; hen"
+"järjestö", "organisation; organization; association"
+"huomenta", "good morning; good afternoon; good day; hello"
+"apina", "monkey; ape"
+"tuollainen", "such"
+"tekniikka", "technique; engineering"
+"tanssi", "dance"
+"synnyttää", "bear; give birth; generate"
+"suosittu", "popular"
+"pyörittää", "spin"
+"palvella", "serve"
+"mökki", "hut; cottage"
+"kustannus", "expense"
+"korvata", "replace; compensate; reimburse; substitute"
+"elo", "life; living"
+"arvio", "estimate"
+"villi", "wild"
+"tee", "tea"
+"suojella", "safeguard"
+"summa", "sum; total"
+"rangaistus", "punishment; penalty"
+"pystyssä", "upright; erect; vertical"
+"puoliso", "spouse"
+"peittää", "cover; conceal; envelop; hide"
+"kiitollinen", "grateful; thankful; obliged"
+"ilmaista", "express; convey; communicate"
+"hermo", "nerve"
+"hanska", "glove"
+"aikainen", "early"
+"voimakkaasti", "strongly; powerfully; strenuously"
+"valittaa", "complain; grumble"
+"törmätä", "conflict; collide"
+"tuore", "fresh; recent"
+"tapaaminen", "meeting; appointment; date"
+"so", "but; however; giddyup; only; and"
+"pysäyttää", "stop"
+"piano", "piano"
+"pahasti", "badly; bad"
+"ooppera", "opera"
+"nurkka", "corner"
+"käsittämätön", "unbelievable; incomprehensible; inconceivable"
+"kupla", "bubble"
+"kulma", "angle; corner"
+"kohdella", "treat"
+"ilmasto", "climate"
+"hallinta", "possession"
+"vatsa", "stomach"
+"tyypillinen", "typical; quintessential"
+"tunnettu", "known"
+"tahto", "will"
+"rikas", "rich"
+"reitti", "route; path"
+"rajoittaa", "restrict; limit; confine"
+"ominaisuus", "attribute; quality"
+"maistaa", "taste"
+"lysti", "joy; enjoyment; happiness"
+"hakata", "chop; hack"
+"vähintään", "at least; at the least; at the very least; not less than"
+"vaikkapa", "even though; for example; for instance"
+"ote", "excerpt; grip"
+"näyttö", "monitor; display; evidence; screen"
+"lause", "sentence; theorem"
+"kitara", "guitar"
+"innostua", "warm"
+"älytön", "witless; unreasonable; unintelligent; vacuous; brainless"
+"tuhota", "destroy"
+"treenata", "train; exercise"
+"toivottaa", "wish"
+"säästää", "save"
+"syli", "lap"
+"rivi", "line; row"
+"piilo", "lair; hiding place"
+"järjetön", "absurd; senseless"
+"etelä", "south"
+"vessa", "toilet; water closet; lavatory; loo"
+"työllistää", "employ"
+"torjua", "avert; reject; ward off; parry"
+"teollisuus", "industry"
+"sentti", "cent"
+"rikkoa", "break"
+"neuvotella", "confer; consult"
+"muusikko", "musician"
+"laatu", "quality"
+"kuuluisa", "famous; renowned; illustrious; celebrated"
+"kohtaus", "scene"
+"huomattavasti", "considerably; significantly; substantially"
+"baari", "bar"
+"alus", "vessel; ship"
+"ylittää", "cross; transcend"
+"viisas", "wise; prudent"
+"vapauttaa", "release; free; loose; set free; liberate"
+"tarkistaa", "check; revise"
+"säilyttää", "preserve; keep"
+"systeemi", "system"
+"pitkälti", "out and away; chiefly; practically; mainly"
+"näytellä", "act; play"
+"mitta", "measure"
+"luultavasti", "probably; arguably; likely"
+"kilpailla", "compete; rival"
+"juoma", "drink; beverage"
+"velvollisuus", "duty; obligation"
+"vankila", "prison; jail"
+"tietynlainen", "specific"
+"takki", "coat"
+"stressi", "stress"
+"salaisuus", "secret"
+"riita", "quarrel; argument; dispute; disagreement; fight"
+"poikki", "across"
+"kokonainen", "whole; entire"
+"kakku", "cake"
+"jännitys", "tension; suspense"
+"joki", "river"
+"ilmetä", "prove; arise; unfold; appear; transpire"
+"finaali", "final; finale"
+"edellä", "ahead; first"
+"demokratia", "democracy"
+"asuminen", "housing"
+"asettua", "settle"
+"yllä", "above; over"
+"viereen", "beside"
+"versio", "version"
+"uudistaa", "reform; renew"
+"todistaa", "prove; testify; certify"
+"tilata", "subscribe; order"
+"tauko", "pause; break"
+"pullo", "bottle"
+"nykyisin", "nowadays; today"
+"makkara", "sausage"
+"maha", "stomach"
+"kamala", "ghastly; horrible; awful; dreadful"
+"kaltainen", "similar"
+"haaveilla", "dream"
+"artisti", "artist; artiste; creative person"
+"välttää", "avoid; dodge"
+"tekninen", "technical"
+"sen", "its"
+"päättäjä", "administrator; decision maker"
+"pilvi", "cloud"
+"pestä", "wash"
+"muualle", "elsewhere"
+"markkinat", "market"
+"laulaja", "singer"
+"kuulija", "listener"
+"hymyillä", "smile"
+"hitto", "heck; damn; the fuck; damn it"
+"ehto", "condition"
+"öljy", "oil"
+"sitä", "it; the"
+"puute", "lack"
+"poikkeuksellinen", "exceptional"
+"opiskelu", "study"
+"marja", "berry"
+"lippu", "ticket"
+"lento", "flight"
+"kohtaaminen", "encounter"
+"itku", "cry; crying; weeping"
+"haave", "dream"
+"faija", "dad"
+"selkeästi", "clearly"
 "bussi", "bus"
